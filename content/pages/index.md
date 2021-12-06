@@ -24,7 +24,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Technology We Love To Work With
-    subtitle: Grid Section Example
+    subtitle: You are only as good as the tech you choose...
     align: center
     grid_items:
       - image: images/logo-1.svg
