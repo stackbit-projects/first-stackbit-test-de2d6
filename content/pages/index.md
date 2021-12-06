@@ -8,7 +8,7 @@ sections:
       Learn our system and get your MVP visible to potential customers in record
       time.
     actions:
-      - label: Get The Guide
+      - label: Mike Is Watching
         url: /pricing
         style: primary
       - label: Take The Quiz
