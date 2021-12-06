@@ -8,7 +8,7 @@ sections:
       Learn our system and get your MVP visible to potential customers in record
       time.
     actions:
-      - label: Try Free
+      - label: Get The Guide
         url: /pricing
         style: primary
       - label: Learn More
