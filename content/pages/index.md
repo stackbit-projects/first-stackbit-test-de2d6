@@ -11,7 +11,7 @@ sections:
       - label: Get The Guide
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: 'Take The '
         url: /features
         style: secondary
     image: images/classic/hero.png
