@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Sales Focussed Web Design and SEO
-    subtitle: 'For Startups, Entrepreneurs and Business Owners'
+    subtitle: 'For Startups, Entrepreneurs and Business Owner'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
