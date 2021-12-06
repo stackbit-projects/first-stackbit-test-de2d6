@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Sales Focussed Web Design and SEO
+    title: 'Our System Can Validate Your Business Idea In Hours, Not Weeks.'
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
