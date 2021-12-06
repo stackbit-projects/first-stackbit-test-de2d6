@@ -23,7 +23,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Technology We Love To Work With
     subtitle: Grid Section Example
     align: center
     grid_items:
