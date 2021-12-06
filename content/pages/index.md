@@ -11,7 +11,7 @@ sections:
       - label: Get The Guide
         url: /pricing
         style: primary
-      - label: 'Take The '
+      - label: Take The Quiz
         url: /features
         style: secondary
     image: images/classic/hero.png
