@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We build websites and do digital marketing.
+    title: Sales Focussed Web Design and SEO
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
