@@ -3,9 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Our System Can Validate Your Business Idea In Hours, Not Weeks.'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Stop wasting time in the planning stage for a project without legs. Learn
+      our system and get your MVP visible to potential customers in record time.
     actions:
       - label: Try Free
         url: /pricing
