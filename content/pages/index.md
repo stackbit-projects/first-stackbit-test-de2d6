@@ -3,8 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Website Builds, SEO Consulting and Paid Advertising.'
-    content: |
-      We can either consult on your project or build the entire website for you.
+    content: >
+      Your website is a 24/7 business card, available online with exactly the
+      information you want to put out, Is it reaching the right people?
     actions:
       - label: View Pricing
         url: /pricing
