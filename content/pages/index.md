@@ -6,7 +6,7 @@ sections:
     content: |
       We can either consult on your project or build the entire website for you.
     actions:
-      - label: Download The Guide
+      - label: View Pricing
         url: /pricing
         style: primary
       - label: Contact Us
