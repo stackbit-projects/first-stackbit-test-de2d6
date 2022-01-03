@@ -37,21 +37,18 @@ sections:
           Got a project you think we can improve? Have us to guide you through
           the next steps
         title_align: left
-        content: |+
+        content: |
           ***
 
           ### £695
 
-          per day, billed monthly
+          (per day, billed monthly)
 
           *   Perfect for projects already underway
           *   SEO consulting, Paid Ads Management, Website Audits
           *   Learn where you are leaving money on the table.
 
-
-
-          100% Money Back Guarantee. 
-
+          100% Money Back Guarantee.
         content_align: left
         actions:
           - label: Start with Premium
