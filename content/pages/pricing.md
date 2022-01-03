@@ -28,7 +28,7 @@ sections:
 
         content_align: left
         actions:
-          - label: Start with Personal
+          - label: Buy The Guide
             url: /features
             style: primary
         actions_align: left
