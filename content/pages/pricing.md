@@ -36,18 +36,21 @@ sections:
       - title: Consulting / Digital Advisor
         subtitle: Got a project already and want us to guide you through the next steps?
         title_align: left
-        content: |-
-          ---
+        content: |+
+          ***
 
-          ### $19
+          ### £695
 
-          per month, billed yearly
+          per day, billed monthly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Perfect for projects already underway
+          *   SEO consulting, Paid Ads Management, Website Audits
+          *   Learn where you are leaving money on the table.
+
+
+
+          100% Money Back Guarantee. 
+
         content_align: left
         actions:
           - label: Start with Premium
