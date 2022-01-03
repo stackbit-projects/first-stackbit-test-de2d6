@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Our System Can Validate Your Business Idea In Hours, Not Weeks.'
+    title: 'Website Builds, SEO and Paid Advertising.'
     content: >
       Stop **wasting time** in the planning stage for a project without legs.
       Learn our system and get your MVP visible to potential customers in record
