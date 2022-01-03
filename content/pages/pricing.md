@@ -63,7 +63,7 @@ sections:
         content: |
           ***
 
-          ### Prices starting from £3000
+          ### Contact for Quote
 
           50% Upfront, 50% Upon Completion.
 
@@ -71,9 +71,7 @@ sections:
           *   Professionally optimised website
           *   Showcase your business online
 
-
-
-          100% Money Back Guarantee. 
+          100% Money Back Guarantee.
         content_align: left
         actions:
           - label: Start with Business
