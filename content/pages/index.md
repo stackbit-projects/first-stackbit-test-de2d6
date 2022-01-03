@@ -9,7 +9,7 @@ sections:
       - label: Download The Guide
         url: /pricing
         style: primary
-      - label: Take The Quiz
+      - label: Contact Us
         url: /features
         style: secondary
     image: images/classic/hero.png
