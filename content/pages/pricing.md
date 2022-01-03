@@ -33,7 +33,9 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Consulting / Digital Advisor
-        subtitle: Got a project already and want us to guide you through the next steps?
+        subtitle: >-
+          Got a project you think we can improve? Have us to guide you through
+          the next steps
         title_align: left
         content: |+
           ***
