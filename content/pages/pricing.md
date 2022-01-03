@@ -33,7 +33,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: Consulting / Digital Advisor
         subtitle: Optional subtitle
         title_align: left
         content: |-
