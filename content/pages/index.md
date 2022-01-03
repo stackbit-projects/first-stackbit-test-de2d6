@@ -3,10 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: 'Website Builds, SEO and Paid Advertising.'
-    content: >
-      Stop **wasting time** in the planning stage for a project without legs.
-      Learn our system and get your MVP visible to potential customers in record
-      time.
+    content: |
+      We can either consult on your project or build the entire website for you.
     actions:
       - label: Download The Guide
         url: /pricing
