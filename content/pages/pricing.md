@@ -34,7 +34,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Consulting / Digital Advisor
-        subtitle: Optional subtitle
+        subtitle: "Got a project and want\_ a professional"
         title_align: left
         content: |-
           ---
