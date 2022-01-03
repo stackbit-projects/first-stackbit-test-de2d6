@@ -5,7 +5,12 @@ sections:
     title: 'Website Builds, SEO Consulting and Paid Advertising.'
     content: >
       Your website is a business card, available online 24/7, with exactly the
-      information you want to put out, Is it reaching the right people?
+      information you want to put out.
+
+
+
+
+      Is it reaching the right people?
     actions:
       - label: View Pricing
         url: /pricing
