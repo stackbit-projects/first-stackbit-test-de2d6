@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Our Pricing Structure
-    subtitle: Optional hero section subtitle
+    subtitle: 'We offer a DIY Guide, Consulting or Full Website Builds.'
     align: center
     padding_top: large
     padding_bottom: small
