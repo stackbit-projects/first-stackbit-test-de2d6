@@ -19,12 +19,14 @@ sections:
 
           ### £29.99
 
+          (digital download)
+
           *   Perfect for the DIY enthusiast out there
           *   Follow the process of a professional web agency
           *   Step By Step Guide
           *   Website online in hours, not days.
 
-          100% Money Back Guarantee. 
+          100% Money Back Guarantee.
         content_align: left
         actions:
           - label: Buy The Guide
