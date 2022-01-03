@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: 'Website Builds, SEO Consulting and Paid Advertising.'
     content: >
-      Your website is a 24/7 business card, available online with exactly the
+      Your website is a business card, available online 24/7, with exactly the
       information you want to put out, Is it reaching the right people?
     actions:
       - label: View Pricing
