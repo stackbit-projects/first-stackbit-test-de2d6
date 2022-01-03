@@ -60,18 +60,20 @@ sections:
       - title: Full Website Build
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### Prices starting from £3000
 
-          per month, billed yearly
+          50% Upfront, 50% Upon Completion.
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Invest in the long-term health of your business.
+          *   Professionally optimised website
+          *   Showcase your business online
+
+
+
+          100% Money Back Guarantee. 
         content_align: left
         actions:
           - label: Start with Business
