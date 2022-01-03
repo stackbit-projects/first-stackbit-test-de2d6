@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Website Builds, SEO and Paid Advertising.'
+    title: 'Website Builds, SEO Consulting and Paid Advertising.'
     content: |
       We can either consult on your project or build the entire website for you.
     actions:
