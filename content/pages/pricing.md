@@ -10,7 +10,9 @@ sections:
   - type: grid_section
     grid_items:
       - title: Website Guide
-        subtitle: Optional subtitle
+        subtitle: >-
+          Complete Website Build Guide to walk you through the process of
+          getting your website up and running in record time.
         title_align: left
         content: |-
           ---
