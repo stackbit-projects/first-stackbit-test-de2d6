@@ -38,11 +38,6 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
                 "style": "primary"
             }
         ]
