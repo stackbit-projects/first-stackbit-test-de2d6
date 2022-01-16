@@ -14,7 +14,7 @@ sections:
           eating.
         content: >
           "I've been selling since I was eight years old, when I made clay
-          models for my friends that caught on... everybody wanted one! Made my
+          models for my friends that caught on... everybody wanted one. Made my
           first website at 12 for a video game and ran tuck shops out of my
           locker.
 
