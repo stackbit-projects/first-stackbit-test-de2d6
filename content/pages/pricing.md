@@ -18,7 +18,7 @@ sections:
           ***
 
 
-          ### £99
+          ### £499
 
 
           Test your website to see if it meets modern website standards for
@@ -26,8 +26,6 @@ sections:
 
 
           Without a fast website, your reach and impact is limited.
-
-
 
 
           100% Money Back Guarantee.
