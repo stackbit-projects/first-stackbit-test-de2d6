@@ -10,10 +10,20 @@ sections:
     features:
       - title: Section Title One
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I've been selling since I was eight years old, when I made clay models
+          for my friends that caught on... everybody wanted one! Made my first
+          website at 12 for a video game and ran tuck shops out of my locker. 
+
+
+          Fast forward and I have four years experience optimising large
+          e-commerce websites (5,000+ products) in an agency setting, and have
+          worked on many web design projects, I have also run global advertising
+          campaigns with more than £100,000 yearly spend.
+
+
+          I now want to focus on projects where I can put myself in the shoes of
+          the business owner and make the projects excel online.
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
