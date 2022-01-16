@@ -106,7 +106,7 @@ sections:
           project together that isn't quite right. Our money back guarantee
           allows both parties to walk away as friends and come back together for
           another project with a better fit.
-      - title: 'I have a website, what else can you do?'
+      - title: 'I already have a website, what else can you do?'
         content: >
           If you already have your project up and running, we can offer two
           things\*\*. First, we can run a full health check of your website to
