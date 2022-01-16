@@ -164,7 +164,7 @@ sections:
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
     actions:
       - label: Get In Contact
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: right
     align: left
