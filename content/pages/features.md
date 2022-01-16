@@ -162,8 +162,8 @@ sections:
   - type: cta_section
     title: We can help your business online.
     content: >
-      Whether you need advertising, a health check or a full website build, we
-      can get you to your goal.
+      Whether you need advertising, a digital health check or a full website
+      build, we can get you to your goal.
     actions:
       - label: Get In Contact
         url: /contact
