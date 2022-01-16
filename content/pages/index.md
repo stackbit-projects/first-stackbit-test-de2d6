@@ -331,7 +331,6 @@ sections:
     background_color: secondary
 seo:
   title: 'Northrule | '
-  description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
