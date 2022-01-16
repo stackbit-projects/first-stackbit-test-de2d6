@@ -106,7 +106,7 @@ sections:
           project together that isn't quite right. Our money back guarantee
           allows both parties to walk away as friends and come back together for
           another project with a better fit.
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: 'I have a website, what else can you do?'
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
