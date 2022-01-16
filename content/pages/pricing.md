@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Our Pricing Structure
     subtitle: >-
-      We offer Search Engine Optimisation, Paid Advertising, Consulting or Full
+      We offer Search Engine Optimisation, Paid Advertising, Consulting and Full
       Website Builds.
     align: center
     padding_top: large
