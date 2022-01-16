@@ -123,7 +123,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Lets Talk About Your Project
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      We can: build you a brand new site, optimise your existing website or
+      create advertising campaigns,
     actions:
       - label: Compare Plans
         url: /pricing
