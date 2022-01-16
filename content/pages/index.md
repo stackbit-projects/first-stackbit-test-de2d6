@@ -18,7 +18,7 @@ sections:
       - label: Contact Us
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: /images/Untitled design (6).png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
