@@ -11,8 +11,8 @@ sections:
     grid_items:
       - title: Website Health Check
         subtitle: >-
-          Complete Website Build Guide to walk you through the process of
-          getting your website up and running in record time.
+          Complete Website Health Check to test aspects such as speed, global
+          deliverability, search appearance and much more.
         title_align: left
         content: >
           ***
