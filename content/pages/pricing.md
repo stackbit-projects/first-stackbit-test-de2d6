@@ -117,12 +117,18 @@ sections:
           \*\* For the right project we also offer a bespoke sales service where
           we meet and close with your customers directly.
       - title: What kind of websites do you offer?
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          We focus on lead generation, so our favourite type of websites to
+          build are service business website, brochure websites and lead
+          generation websites.
+
+
+          If you require something more technical, or are looking for e-commerce
+          set up, our partner agencies would love to talk to you.
+
+
+          Book a consultation with us and we can point you in the right
+          direction.
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
