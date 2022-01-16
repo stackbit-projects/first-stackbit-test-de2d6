@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Our Process
-    subtitle: Features Page Demo
+    subtitle: Helping Your Business Thrive Online
     background_color: primary
   - type: features_section
     features:
