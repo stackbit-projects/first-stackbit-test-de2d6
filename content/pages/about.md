@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: About
+    title: About Northrule
     subtitle: About Page Demo
     align: center
     background_color: secondary
