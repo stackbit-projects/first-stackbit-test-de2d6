@@ -101,10 +101,11 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: Why the money back guarentee?
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          We know our service is valuable. However, sometimes we can end up on a
+          project together that isn't quite right. Our money back guarantee
+          allows both parties to walk away as friends and come back together for
+          another project with a better fit.
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
