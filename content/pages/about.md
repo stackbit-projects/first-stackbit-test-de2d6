@@ -9,7 +9,7 @@ sections:
   - type: features_section
     features:
       - title: Section Title One
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: 'Travel, Walking, Talking and Eating...'
         content: >
           I've been selling since I was eight years old, when I made clay models
           for my friends that caught on... everybody wanted one! Made my first
