@@ -116,7 +116,7 @@ sections:
 
           \*\* For the right project we also offer a bespoke sales service where
           we meet and close with your customers directly.
-      - title: Viverra nam libero justo laoreet sit?
+      - title: What kind of websites do you offer?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
