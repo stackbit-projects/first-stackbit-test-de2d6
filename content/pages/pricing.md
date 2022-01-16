@@ -143,7 +143,7 @@ sections:
           not have the capability.
       - title: Why is your health check so expensive?
         content: >
-          A faulty website is holding your business back. Slow loading times or
+          A faulty website will hold your business back. Slow loading times or
           difficult navigation cause customers to leave the site without giving
           you their details. How much is it worth to your business to make sure
           that customers love using your website?
