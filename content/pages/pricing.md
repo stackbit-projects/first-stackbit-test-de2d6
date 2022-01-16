@@ -142,10 +142,15 @@ sections:
           We also offer training if you want to manage in-house but currently do
           not have the capability.
       - title: Why is your health check so expensive?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          A faulty website is holding your business back. Slow loading times or
+          difficult navigation cause customers to leave the site without giving
+          you their details. How much is it worth to your business to make sure
+          that customers love using your website?
+
+
+          Compared to the results we see after fixing websites, our health check
+          is cheap.
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
