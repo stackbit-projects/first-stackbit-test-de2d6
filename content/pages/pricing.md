@@ -42,7 +42,7 @@ sections:
         content: |
           ***
 
-          ### £695
+          ### £395
 
           (per day, billed monthly)
 
