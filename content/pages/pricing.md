@@ -107,10 +107,15 @@ sections:
           allows both parties to walk away as friends and come back together for
           another project with a better fit.
       - title: 'I have a website, what else can you do?'
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          If you already have your project up and running, we can offer two
+          things\*\*. First, we can run a full health check of your website to
+          make sure it meets modern website standards. Second, we offer digital
+          advertising in the form of Google Pay Per Click and Facebook Ads.
+
+
+          \*\* For the right project we also offer a bespoke sales service where
+          we meet and close with your customers directly.
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
