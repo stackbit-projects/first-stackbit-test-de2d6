@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Website Guide
+      - title: Website Health Check
         subtitle: >-
           Complete Website Build Guide to walk you through the process of
           getting your website up and running in record time.
