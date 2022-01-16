@@ -28,6 +28,11 @@ sections:
           Without a fast website, your reach and impact is limited.
 
 
+          We also look at areas such as site search performance for internal
+          navigation and social appearance to make sure you are offering a good
+          first impression to new customers.
+
+
           100% Money Back Guarantee.
         content_align: left
         actions:
