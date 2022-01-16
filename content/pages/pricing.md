@@ -14,17 +14,21 @@ sections:
           Complete Website Build Guide to walk you through the process of
           getting your website up and running in record time.
         title_align: left
-        content: |
+        content: >
           ***
 
-          ### £29.99
 
-          (digital download)
+          ### £99
 
-          *   Perfect for the DIY enthusiast out there
-          *   Follow the process of a professional web agency
-          *   Step By Step Guide
-          *   Website online in hours, not days.
+
+          Test your website to see if it meets modern website standards for
+          speed and deliverability.
+
+
+          Without a fast website, your reach and impact is limited.
+
+
+
 
           100% Money Back Guarantee.
         content_align: left
