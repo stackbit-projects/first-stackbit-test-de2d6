@@ -161,7 +161,9 @@ sections:
     background_color: secondary
   - type: cta_section
     title: We can help your business online.
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: >
+      Whether you need advertising, a health check or a full website build, we
+      can get you to your goal.
     actions:
       - label: Get In Contact
         url: /contact
