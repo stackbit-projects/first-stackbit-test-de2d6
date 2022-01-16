@@ -13,9 +13,10 @@ sections:
           My favourite things include... travel, walking, talking, reading and
           eating.
         content: >
-          I've been selling since I was eight years old, when I made clay models
-          for my friends that caught on... everybody wanted one! Made my first
-          website at 12 for a video game and ran tuck shops out of my locker. 
+          "I've been selling since I was eight years old, when I made clay
+          models for my friends that caught on... everybody wanted one! Made my
+          first website at 12 for a video game and ran tuck shops out of my
+          locker.
 
 
           Fast forward and I have four years experience optimising large
@@ -25,7 +26,7 @@ sections:
 
 
           I now want to focus on projects where I can put myself in the shoes of
-          the business owner and make the projects excel online.
+          the business owner and make the projects excel online."
         image: images/about-5.jpg
         image_alt: People in conversation in the office lounge area
         media_position: right
