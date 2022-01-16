@@ -3,7 +3,9 @@ title: Pricing
 sections:
   - type: hero_section
     title: Our Pricing Structure
-    subtitle: 'We offer a DIY Guide, Consulting or Full Website Builds.'
+    subtitle: >-
+      We offer Search Engine Optimisation, Paid Advertising, Consulting or Full
+      Website Builds.
     align: center
     padding_top: large
     padding_bottom: small
