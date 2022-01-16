@@ -27,7 +27,7 @@ sections:
 
           I now want to focus on projects where I can put myself in the shoes of
           the business owner and make the projects excel online."
-        image: images/about-5.jpg
+        image: /images/IMG_3695.PNG
         image_alt: People in conversation in the office lounge area
         media_position: right
         media_width: fifty
