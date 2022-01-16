@@ -330,7 +330,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: 'Northrule | '
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
