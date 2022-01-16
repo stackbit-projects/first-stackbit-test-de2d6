@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: About Northrule
-    subtitle: 'Freelance webdesign, marketing and sales.'
+    subtitle: 'Freelance web design, marketing and sales.'
     align: center
     background_color: secondary
   - type: features_section
