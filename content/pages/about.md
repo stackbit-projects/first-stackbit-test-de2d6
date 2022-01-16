@@ -8,7 +8,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: 'Alex Rule, Northrule Founder'
+      - title: 'Alex, Northrule''s Founder'
         subtitle: 'My favourite things include... ravel, Walking, Talking and Eating...'
         content: >
           I've been selling since I was eight years old, when I made clay models
