@@ -130,11 +130,17 @@ sections:
           Book a consultation with us and we can point you in the right
           direction.
       - title: Do you do advertising?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          Yes! We offer digital advertising services for Google Pay Per Click
+          and Facebook Ads. 
+
+
+          We can either set it up and you can manage it in-house, or we can
+          manage the project from end-to-end,
+
+
+          We also offer training if you want to manage in-house but currently do
+          not have the capability.
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
