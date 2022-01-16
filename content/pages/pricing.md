@@ -141,7 +141,7 @@ sections:
 
           We also offer training if you want to manage in-house but currently do
           not have the capability.
-      - title: Porta nibh venenatis cras sed felis eget velit aliquet?
+      - title: Why is your health check so expensive?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
           Dictum varius duis at consectetur lorem donec massa. Porta non
